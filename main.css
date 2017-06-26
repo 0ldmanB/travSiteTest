@@ -1,0 +1,62 @@
+/* List of elements, in order of appearance*/
+
+.headerImageBoxBig{
+   width: 22%;
+  margin: 0 auto;
+  
+}
+
+.headerImageBoxSmall{
+   width: 50%;
+  margin: 0 auto;
+  
+}
+
+.headerImage{
+   max-width: 100%;
+  max-height: 100%;
+}
+.blackLine{
+  width: 25%;
+  margin: 0 auto;
+  background-color: black;
+  height: 2px;
+}
+
+.messageText{
+  padding: 35px 0px 0px 0px;
+  font-size: 200%;
+  text-align: center;
+  color: black;
+  font-family: oswald;
+}
+
+.compText{
+   padding: 35px 0px 0px 0px;
+  font-size: 175%;
+  text-align: center;
+  color: black;
+  font-family: oswald;
+}
+
+.mobileText{
+   padding: 35px 0px 0px 0px;
+  font-size: 400%;
+  text-align: center;
+  color: black;
+  font-family: oswald;
+}
+.outerBox {
+  background-color: white;
+  margin: 20px 50px 50px 50px;
+  padding: 35px 0px 0px 0px;
+  border-radius: 5px;
+  
+}
+
+.mainText {
+  padding-bottom: 60px;
+}
+
+
+
